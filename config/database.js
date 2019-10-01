@@ -3,8 +3,8 @@ module.exports = {
     'connection': {
         'host': 'localhost',
         'user': 'root',
-        'password': '123456'
+        'password': ''
     },
-	'database': 'excelData',
+	'database': 'noderestapi',
   'users_table': 'users'
 };
